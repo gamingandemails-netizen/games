@@ -1,7 +1,7 @@
 {
   "developer": "Jacob Drake",
-  "email": "[contact email]",
-  "updated": "October 30, 2026",
+  "email": "gamingandemails@gmail.com",
+  "updated": "November 8, 2026",
   "games": [
     { "slug": "tower-of-arrows", "name": "Tower of Arrows", "progress": "waves reached, upgrades and settings", "orientation": "landscape", "menu": "the Settings screen" },
     { "slug": "crooked-dice", "name": "Crooked Dice", "progress": "runs played, unlocks and settings", "orientation": "portrait", "menu": "the pause menu (☰)" }
